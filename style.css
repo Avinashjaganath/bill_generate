@@ -1,0 +1,33 @@
+div{
+    left: 50%;
+    top: 60%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    border-radius: 5%;
+    width: 70%;
+    background-color: rgba(250, 235, 215, 0.438);
+    backdrop-filter: blur(10px);
+}
+body{
+    background-image: url("https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/content9733.jpg");
+    background-size:250%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+table{
+    width: 110%;
+    text-align: center;
+}
+input{
+    width: 10%;  
+}
+button{
+    height: 40px;
+    border-radius: 40%;
+    margin-top: 10%;
+    background-color: rgba(17, 63, 104, 0.00);
+}
+input{
+    background-color: rgba(240, 248, 255, 0.062);
+    border-color: rgba(247, 145, 11, 0.349);
+}
